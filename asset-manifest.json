@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio-master/static/css/main.d10e694c.css",
+    "main.js": "/Portfolio-master/static/js/main.595378ba.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SpaceSimDemo - Made with Clipchamp.mp4": "/Portfolio-master/static/media/SpaceSimDemo - Made with Clipchamp.7c0d3c001d68f3bb8481.mp4",
+    "static/media/Boopitdemo.mp4": "/Portfolio-master/static/media/Boopitdemo.a11a840b119d39365a07.mp4",
+    "static/media/ConFps.mp4": "/Portfolio-master/static/media/ConFps.448052ad0b6322792bb1.mp4",
+    "static/media/6dof.mp4": "/Portfolio-master/static/media/6dof.9983ca2a3afed50f25e6.mp4",
+    "static/media/cubeVid.mp4": "/Portfolio-master/static/media/cubeVid.2f7dd25e62500b3247fb.mp4",
+    "static/media/chatify.png": "/Portfolio-master/static/media/chatify.2cf991023ca9646f564e.png",
+    "static/media/logo.png": "/Portfolio-master/static/media/logo.dcc63f57119b363b4f9c.png",
+    "static/media/Ryan-Curphey-Simulation.pdf": "/Portfolio-master/static/media/Ryan-Curphey-Simulation.547342c4c5dbace389d5.pdf",
+    "static/media/home-main.svg": "/Portfolio-master/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio-master/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-master/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-master/index.html",
+    "main.d10e694c.css.map": "/Portfolio-master/static/css/main.d10e694c.css.map",
+    "main.595378ba.js.map": "/Portfolio-master/static/js/main.595378ba.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10e694c.css",
+    "static/js/main.595378ba.js"
+  ]
+}
